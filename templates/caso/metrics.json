@@ -1,0 +1,41 @@
+{
+  "generated_at": "{{generated_at}}",
+  "git": {
+    "commit": "{{git_commit}}",
+    "dirty": true
+  },
+  "phases": {
+    "synthetic": {
+      "phase": "synthetic",
+      "data": {},
+      "calibration": {},
+      "errors": {},
+      "correlations": {},
+      "symploke": {},
+      "non_locality": {},
+      "persistence": {},
+      "emergence": {},
+      "c1_convergence": null,
+      "c2_robustness": null,
+      "c3_replication": null,
+      "c4_validity": null,
+      "c5_uncertainty": null
+    },
+    "real": {
+      "phase": "real",
+      "data": {},
+      "calibration": {},
+      "errors": {},
+      "correlations": {},
+      "symploke": {},
+      "non_locality": {},
+      "persistence": {},
+      "emergence": {},
+      "c1_convergence": null,
+      "c2_robustness": null,
+      "c3_replication": null,
+      "c4_validity": null,
+      "c5_uncertainty": null
+    }
+  }
+}

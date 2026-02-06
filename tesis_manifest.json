@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "Validación de Hiperobjetos mediante Eficacia Causal",
+    "subtitle": "Tesis Doctoral en Ciencias de la Complejidad y Ontología Computacional",
+    "author": "Steven Villanueva Osorio",
+    "date": "2026"
+  },
+  "thesis_sections": [
+    {
+      "id": "abstract",
+      "title": "Resumen / Abstract",
+      "source": "TesisFinal/abstract.md",
+      "optional": true
+    },
+    {
+      "id": "marco",
+      "title": "Marco Conceptual",
+      "source": "TesisDesarrollo/00_Marco_Conceptual/00_00_Marco_Conceptual.md"
+    },
+    {
+      "id": "metodologia",
+      "title": "Metodología de Medición",
+      "source": "TesisDesarrollo/01_Metodologia_Medicion/01_00_Metodologia_Medicion.md"
+    },
+    {
+      "id": "modelado",
+      "title": "Modelado y Simulación",
+      "source": "TesisDesarrollo/02_Modelado_Simulacion/02_Modelado_Simulacion.md"
+    },
+    {
+      "id": "validacion",
+      "title": "Validación y Praxis",
+      "source": "TesisDesarrollo/03_Validacion_Praxis/03_Validacion_Praxis.md"
+    },
+    {
+      "id": "casos",
+      "title": "Casos de Estudio",
+      "source": "TesisDesarrollo/04_Casos_De_Estudio/04_Casos_De_Estudio.md"
+    },
+    {
+      "id": "anexos",
+      "title": "Anexos",
+      "source": "TesisDesarrollo/Anexos.md"
+    }
+  ],
+  "cases_dir": "TesisDesarrollo/02_Modelado_Simulacion",
+  "repos_dir": "repos/Simulaciones",
+  "required_docs": [
+    "arquitectura.md",
+    "indicadores_metricas.md",
+    "protocolo_simulacion.md",
+    "reproducibilidad.md",
+    "validacion_c1_c5.md"
+  ],
+  "validation_thresholds": {
+    "edi_min": 0.30,
+    "edi_max": 0.90,
+    "rmse_floor": 1e-10,
+    "cr_min": 2.0,
+    "correlation_min": 0.7
+  }
+}

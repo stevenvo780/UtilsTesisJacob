@@ -32,6 +32,17 @@ LOE_MAP = {
     '16_caso_postverdad': 2,
     '17_caso_rtb_publicidad': 1,
     '18_caso_wikipedia': 3,
+    '19_caso_acidificacion_oceanica': 5,
+    '21_caso_kessler_syndrome': 5,
+    '22_caso_salinizacion': 4,
+    '23_caso_fosforo': 3,
+    '24_caso_erosion_dialectica': 2,
+    '25_caso_microplasticos': 4,
+    '26_caso_acuiferos': 5,
+    '27_caso_starlink': 5,
+    '28_caso_riesgo_biologico': 2,
+    '29_caso_fuga_cerebros': 2,
+    '30_caso_iot': 3,
 }
 
 
